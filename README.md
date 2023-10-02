@@ -8,3 +8,9 @@ It maps a two-dimensional Logical address into a one-dimensional Physical addres
 Base Address: It contains the starting physical address where the segments reside in memory.<br>
 Segment Limit:  Also known as segment offset. It specifies the length of the segment. <br>
 
+
+
+
+
+
+
